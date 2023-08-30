@@ -1,0 +1,17 @@
+d2f3736db5782e3cd837efd3b81c2284 *DESCRIPTION
+03aefc3e2f79558ce901f5b3f4a4ef47 *NAMESPACE
+f882a86f0e5e2ca6a05b2a5166a842da *NEWS.md
+a117934a164d08224b38682fddd12258 *R/adf.R
+5878cf083f1dd54cf55adee30060d9a0 *R/pp.R
+6e7732d5bde98c78f9f5323e2ab53954 *R/uroot.R
+e271213454b10c44cf0696c70faa8ea6 *R/utils.R
+ff6c9d8d8ab9eaefb7a5091c84bd5547 *README.md
+c45c30e4aa308f4ae7202d92b650d5a9 *build/vignette.rds
+b753e35ef89a9983121f487d7e8448bb *inst/CITATION
+be2fb0b94e8c25dc08eda569e06d1d94 *inst/doc/URooTab.R
+823128d68204e6e18b9bdc9790c013d8 *inst/doc/URooTab.Rmd
+d850df6625d80f0f1f1626a10f5bfea1 *inst/doc/URooTab.html
+0e1b7b70f49766d18ae2262b9f7489ab *man/adf.Rd
+74aab8869f2ed6936616e6c2f0f7b89b *man/pp.Rd
+691d48ed9180b859cc2e6e4bacc087b2 *man/uroot.Rd
+823128d68204e6e18b9bdc9790c013d8 *vignettes/URooTab.Rmd
